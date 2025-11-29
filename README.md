@@ -59,3 +59,34 @@ This repo covers everything from the basics to advanced concepts, including ES6,
 
 ## 📁 Folder Structure
 
+
+---
+
+## 🎯 Goals of This Repository
+
+- Build a solid foundation in JavaScript
+- Strengthen SQA/SDET automation skills
+- Understand how JavaScript works under the hood
+- Practice logic, problem-solving, and debugging
+- Prepare for interviews and real automation projects
+- Create real-world JavaScript-only mini projects
+
+---
+
+## 🚀 Final Projects (Pure JS)
+
+- 🛒 **Shopping Cart System**
+- 💸 **MFS (Mobile Financial System)**
+- 📄 More mini-projects will be added…
+
+---
+
+## 🤝 Contributions
+
+This is a personal learning repository, but contributions or suggestions are welcome.
+
+---
+
+## ⭐ Support
+
+If you find this repo helpful, consider giving it a star ⭐ on GitHub!
